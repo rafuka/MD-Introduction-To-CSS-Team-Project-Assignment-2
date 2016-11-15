@@ -39,6 +39,11 @@ p {
 ```
 ![Example 2 Image](http://i.imgur.com/nD0jYmO.png)
 
+## Browser Compatibility
+Firefox/Gecko (3.5/1.9.1), Chrome (1.0), Internet Explorer (5.5), Opera (10.5), Safari (1.0).
+
 ## Notes 
 The `word-wrap` property has been renamed to `overflow-wrap` in the current CSS3 Text specification. This two properties have
 the exact same functionality.
+
+
