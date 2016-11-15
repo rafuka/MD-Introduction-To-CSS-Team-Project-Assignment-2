@@ -1,8 +1,8 @@
 # :only-of-type
 
-CSS pseudo-class.
+CSS pseudo-class selector.
 
-Used to select elements that have no siblings of the same type.
+Used to select elements that have no siblings of the given type.
 
 ## Syntax
 ```
