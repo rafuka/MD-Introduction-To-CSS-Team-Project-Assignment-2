@@ -38,3 +38,7 @@ p {
 }
 ```
 ![Example 2 Image](http://i.imgur.com/nD0jYmO.png)
+
+## Notes 
+The `word-wrap` property has been renamed to `overflow-wrap` in the current CSS3 Text specification. This two properties have
+the exact same functionality.
