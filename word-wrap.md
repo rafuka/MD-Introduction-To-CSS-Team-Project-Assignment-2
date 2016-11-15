@@ -26,7 +26,7 @@ p {
   width: 100px;
 }
 ```
-![Example 1 Image](http://i.imgur.com/mPRpPB4.png)
+![Example 1 Image](http://i.imgur.com/JrnOlaC.png)
 
 ## Example 2
 Now lets look at the same paragraph with the `break-word` value set to the `word-wrap` property.
@@ -37,4 +37,4 @@ p {
   width: 100px;
 }
 ```
-![Example 2 Image](http://i.imgur.com/iIdmdfH.png)
+![Example 2 Image](http://i.imgur.com/nD0jYmO.png)
