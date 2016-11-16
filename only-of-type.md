@@ -100,3 +100,6 @@ The result would look like this:
 
 The `p` element with the `id="myid` didn't match the rule because it has another `p` element as a sibling.
 The `p` and `a` elements with `class="myclass"` got selected because they do not have sibling elements of the same type.
+
+## Browser compatibility
+Chrome (1.0), Firefox/Gecko (3.5/1.9.1), Internet Explorer (9.0), Opera (9.5), Safari (3.2).
