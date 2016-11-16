@@ -30,7 +30,7 @@ And the following HTML snippet:
 The result would look like this:
 ![Example 1 Image](http://i.imgur.com/Y0tBRbn.png)
 
-As you can see, all the elements had the `color: green` rule applied to them. However, not every element got selected by the `:only-of-type` pseudo class selector. The only elements that got selected where the `body` and the `p` elements. The reason for which the two `a` elements got the rule applied is that they inherited from the body tag. Remember, there is only one `body` element in any HTML document, so any time you use `:only-of-type` without a preceding selector, the `body` element will be matched.
+As you can see, all the elements had the `color: green` rule applied to them. However, not every element got selected by the `:only-of-type` pseudo class selector. The only elements that got selected where the `body` and the `p` elements. The reason for which the two `a` elements got the rule applied is that they inherited it from the body tag. Remember, there is only one `body` element in any HTML document, so any time you use `:only-of-type` without a preceding selector, the `body` element will be matched.
 
 ## Example 2
 Consider the following CSS rules:
