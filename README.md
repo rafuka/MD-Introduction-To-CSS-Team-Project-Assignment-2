@@ -1,4 +1,4 @@
-# ModernDeveloper Project Assignment 2
+# ModernDeveloper CSS Team Project Assignment 2
 ## Emcyclopedia Entries
 
 ### By Rafael Garcia
