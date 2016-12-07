@@ -26,3 +26,4 @@ var str = "ThisIsAString";
 console.log(str.charAt(6));  /* Prints 'A' */
 console.log(str.charAt(256)) /* Prints '' (empty string) */
 ```
+The `charAt()` function is supported by all the main Browsers.
