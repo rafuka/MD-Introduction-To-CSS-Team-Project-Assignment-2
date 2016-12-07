@@ -1,5 +1,5 @@
 # ModernDeveloper CSS Team Project Assignment 2
-## Emcyclopedia Entries
+## Encyclopedia Entries
 
 ### By Rafael Garcia
  * [word-wrap](word-wrap.md)
